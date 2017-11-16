@@ -1,0 +1,21 @@
+[
+    {"City": "New York", "population": 8175133},
+    {"City": "Los Angeles", "population": 3792621},
+    {"City": "Chicago", "population": 2695598},
+    {"City": "Houston", "population": 2099451},
+    {"City": "Philadelphia", "population": 1526006},
+    {"City": "Phoenix", "population": 1445632},
+    {"City": "San Anonio", "population": 1327407},
+    {"City": "San Diego", "population": 1307402},
+    {"City": "Dallas", "population": 1197816},
+    {"City": "San Jose", "population": 945942},
+    {"City": "Jacksonville", "population": 821784},
+    {"City": "Indianapolis", "population": 820445},
+    {"City": "San Fransisco", "population": 805235},
+    {"City": "Austin", "population": 790039},
+    {"City": "Columbus", "population": 787033},
+    {"City": "Fort Worth", "population": 741206},
+    {"City": "Charlotte", "population": 731424},
+    {"City": "Detroit", "population": 713777},
+    {"City": "El Paso", "population": 649121}
+]
